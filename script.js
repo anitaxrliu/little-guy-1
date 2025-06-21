@@ -106,7 +106,7 @@ function triggerGameOver() {
     createExplosionEffect();
     
     // Update status
-    updateStatus("💥 GAME OVER! Your cat exploded from neglect! 💥");
+    updateStatus("💥 GAME OVER! your guy exploded 😭");
     
     // Add restart button after explosion
     setTimeout(() => {
